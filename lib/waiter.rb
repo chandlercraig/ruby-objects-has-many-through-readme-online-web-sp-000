@@ -22,5 +22,5 @@ class Waiter
       meal.waiter
     end
   end
-  
+
 end
